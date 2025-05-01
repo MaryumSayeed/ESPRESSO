@@ -1,0 +1,9 @@
+files/*
+data/*
+.DS_Store
+scripts/.DS_Store
+scripts/.ipynb_checkpoints/read_fits-checkpoint.ipynb
+*.pdf
+*.png
+*.csv
+*.pkl
