@@ -7,3 +7,4 @@ scripts/.ipynb_checkpoints/read_fits-checkpoint.ipynb
 *.png
 *.csv
 *.pkl
+*.txt
